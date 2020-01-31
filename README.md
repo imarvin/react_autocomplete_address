@@ -1,8 +1,14 @@
-This is a simple react app that has an address search bar with autocomplete feature with a corrresponding address form that autofills from the suggested address.  Doing a Search will fetch api from Estated which returns and display the raw data.
+This is a simple react app that has an address search bar with autocomplete feature.<br/>
+
+The corrresponding address form will autofill when a suggested address is selected.<br/>
+
+The Address form can also be manually populated.<br/>
+
+Doing a Search will fetch from the Estated api which returns and display the raw data.<br/>
 
 Preview url: https://imarvin.github.io/react_autocomplete_address/
 
-The api token has limited number of requests so at some point the Search functionality may stop working. However, the address search autocomplete should still work.
+The Estated api token has limited number of requests so at some point the Search functionality may stop working. However, the address search autocomplete should still work.
 
 
 
