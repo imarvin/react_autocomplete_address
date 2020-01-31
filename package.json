@@ -1,7 +1,7 @@
 {
   "name": "react_autocomplete_address",
   "version": "0.1.0",
-  "homepage": "https://imarvin.github.io/react_itunes_movies/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.0",
